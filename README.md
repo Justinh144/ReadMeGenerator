@@ -21,8 +21,7 @@ justinh144@hotmail.com
 **INSTALL**
 N/A
 **TITLE**
-ReadMe Generator![Uploading readpic.jpg…]()
-
+ReadMe Generator
 **DESCRIPTION**
 Quickly and easily creates a readme for a new project
 **GUIDELINES**
@@ -31,3 +30,4 @@ Answers questions accurately
 Type 'node index' in the appropriate folder
 My Github:(https://github.com/justinh144)
 Email:justinh144@hotmail.com
+![readpic](https://github.com/Justinh144/ReadMeGenerator/assets/146400241/b8b45ae1-b10e-45c5-807f-018e64ecdfec)
